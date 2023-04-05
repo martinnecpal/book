@@ -1,2 +1,3 @@
 # Nastavenie vlastností objektov materiálového toku
 
+Vlastnosti objektov simulačného modelu je možné meniť a nastavovať tak aby celkový model nadobúdal vlastnosti s realitou, a aby mohlo byť skúmané jeho správanie. Dialog nastavenia vlastností objektov sa otvára dvojklikom ľavým tlačidlom myši na objekt, alebo pravým tlačidlom myši z výberom možnosti Open v menu. Každý objekt obsahuje vlastnosti a nastavenia v závislosti od toho o aký objekt sa jedná a na čo sa používa. V prípade že potrebujeme objekt so špecifickou úlohou ktorá nie-je zahrnutá v základných objektoch, je možné vytvoriť si objekt vlastný.

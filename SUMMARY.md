@@ -10,3 +10,4 @@
 * [Vytvorenie základného simulačného modelu](vytvorenie-zakladneho-simulacneho-modelu/README.md)
   * [Význam ukazovateľov stavu objektu](vytvorenie-zakladneho-simulacneho-modelu/vyznam-ukazovatelov-stavu-objektu.md)
   * [Nastavenie vlastností objektov materiálového toku](vytvorenie-zakladneho-simulacneho-modelu/nastavenie-vlastnosti-objektov-materialoveho-toku.md)
+  * [Zmena základných vlastností objektu Station](vytvorenie-zakladneho-simulacneho-modelu/zmena-zakladnych-vlastnosti-objektu-station.md)
