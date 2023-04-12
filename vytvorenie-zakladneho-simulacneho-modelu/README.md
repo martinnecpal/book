@@ -6,7 +6,7 @@ Na hlavné okno model presuňme objekt Source, Station a Drain. Tieto objekty pr
 
 Beh simulačného modelu ovláda objekt EventController. Tento objekt sa implicitne nachádza po vytvorení nového projektu na hlavnom okne model. Pokiaľ sa objekt EventControler na hlavnom okne nenachádza je možné ho doplniť za pomoci ToolBox panelu z karty Material Flow. Po otvorení vlastností objektu EventControler(napr. dvojklikom) sa otvorí nastavovacie dialogove okno EventContorler obr:
 
-<figure><img src="../.gitbook/assets/event_controler.png" alt=""><figcaption><p>Nastavovacie okno objektu EventController</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/event_controler (1).png" alt=""><figcaption><p>Nastavovacie okno objektu EventController</p></figcaption></figure>
 
 Simuláciu je možné spustiť pomocou tlačidla Štart/Stop simulácia. Beh simulácie sa prejaví narastajúcim časom v informačnom okne Time a preblikávaním status lediek na simulačnom modeli ako ukazuje obr
 
