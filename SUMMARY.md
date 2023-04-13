@@ -34,4 +34,7 @@
   * [Zobrazenie display panel ako Bars](statistiky-a-grafy/zobrazenie-display-panel-ako-bars.md)
   * [Zobrazenie Display Panel ako LED](statistiky-a-grafy/zobrazenie-display-panel-ako-led.md)
 * [Hierarchia](hierarchia/README.md)
-  * [Page 1](hierarchia/page-1.md)
+  * [Cvicenie: Model bez využitia hierarchie](hierarchia/cvicenie-model-bez-vyuzitia-hierarchie.md)
+  * [Tvorba vlastného objektu SubFrame](hierarchia/tvorba-vlastneho-objektu-subframe.md)
+  * [Použitie vlastného objektu SubFrame v simulačnom modeli](hierarchia/pouzitie-vlastneho-objektu-subframe-v-simulacnom-modeli.md)
+* [Editor ikon a vektorová grafika](editor-ikon-a-vektorova-grafika.md)
