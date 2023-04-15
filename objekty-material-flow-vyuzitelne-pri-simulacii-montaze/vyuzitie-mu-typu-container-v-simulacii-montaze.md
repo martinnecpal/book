@@ -12,6 +12,4 @@ Nový zdroj ktorým je potrebné nastaviť generovanie objektov Container L\_zos
 
 Obiekt Container môže obsahovať určité množstvo iných MUs. V základe je nastavené maximálne množstvo na štyri objekty. Pokiaľ potrebujeme zväčšiť minimálne množstvo MU je potrebné to vykonať v nastaveniach vlastností objektu Container na karte Attributes X-dimension:, Y-dimension a Z-dimension. Výsledok simulácie montáže s využitím MU objektu Container znázorňuje obrázok:
 
-<figure><img src="../.gitbook/assets/dismantlestation.png" alt=""><figcaption><p>Ukážka využitia objektu DismantleStation v simulačnom modeli</p></figcaption></figure>
-
-Jediná vlastnosť ktorú je potrebné nastaviť v prípade objektu DismantleStation je na karte Attributes: Detach MUs.
+<figure><img src="../.gitbook/assets/dismantlestation (1).png" alt=""><figcaption><p>Ukážka využitia objektu DismantleStation v simulačnom modeli</p></figcaption></figure>

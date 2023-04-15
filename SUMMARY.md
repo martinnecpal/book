@@ -46,5 +46,6 @@
 * [Objekty Material Flow využiteľné pri simulácii montáže](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/README.md)
   * [Nastavenie objektu AssemblyStation](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/nastavenie-objektu-assemblystation.md)
   * [Využitie MU typu Container v simulácii montáže](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/vyuzitie-mu-typu-container-v-simulacii-montaze.md)
+  * [DismantleStation](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/dismantlestation.md)
 * [Preprava dielov s využitím objektu Transporter(vozík)](preprava-dielov-s-vyuzitim-objektu-transporter-vozik.md)
 * [Page 1](page-1.md)
