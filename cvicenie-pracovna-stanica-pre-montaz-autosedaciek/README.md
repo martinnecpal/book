@@ -56,4 +56,4 @@ Objekt Drain je ponechaný na defaultných hodnotách.
 
 Dĺžka simulácie sa nastavuje pomocou komponenty EventController na karte Settings.
 
-<figure><img src="../.gitbook/assets/event_controler.png" alt=""><figcaption><p>Nastavenie objektu EventController</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/event_controler (1).png" alt=""><figcaption><p>Nastavenie objektu EventController</p></figcaption></figure>

@@ -9,7 +9,7 @@ Základný význam jednotlivých stavov objektov sumarizuje tabuľka:
 |                    |                                                                          |                  |
 | ------------------ | ------------------------------------------------------------------------ | ---------------- |
 | Stav objektu       | Uážka                                                                    | Farba Indikátora |
-| Blokované          | <img src="../.gitbook/assets/image (6).png" alt="" data-size="original"> | Žltá             |
+| Blokované          | <img src="../.gitbook/assets/image (3).png" alt="" data-size="original"> | Žltá             |
 | Závada             | ![](../.gitbook/assets/image.png)                                        | červená          |
 | Pauza              | ![](<../.gitbook/assets/image (8).png>)                                  | modrá            |
 | ZapínanieVypínanie | ![](<../.gitbook/assets/image (1).png>)                                  | fialová          |
