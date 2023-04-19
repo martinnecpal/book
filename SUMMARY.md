@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Hlavné okno softvéru Plant Simulation](README.md)
+* [Úvod](README.md)
+* [Hlavné okno softvéru Plant Simulation](<README (1).md>)
   * [Ribbon Bar](hlavne-okno-softveru-plant-simulation/ribbon-bar.md)
   * [Class Library](hlavne-okno-softveru-plant-simulation/class-library.md)
   * [Toolbox](hlavne-okno-softveru-plant-simulation/toolbox.md)
@@ -47,5 +48,9 @@
   * [Nastavenie objektu AssemblyStation](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/nastavenie-objektu-assemblystation.md)
   * [Využitie MU typu Container v simulácii montáže](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/vyuzitie-mu-typu-container-v-simulacii-montaze.md)
   * [DismantleStation](objekty-material-flow-vyuzitelne-pri-simulacii-montaze/dismantlestation.md)
-* [Preprava dielov s využitím objektu Transporter(vozík)](preprava-dielov-s-vyuzitim-objektu-transporter-vozik.md)
-* [Page 1](page-1.md)
+* [Preprava dielov s využitím objektu Transporter(vozík)](preprava-dielov-s-vyuzitim-objektu-transporter-vozik/README.md)
+  * [Modelovanie prepravy pomocou pasívnych objektov typu Conveyor](preprava-dielov-s-vyuzitim-objektu-transporter-vozik/modelovanie-prepravy-pomocou-pasivnych-objektov-typu-conveyor.md)
+  * [Modelovanie prepravy pomocou pasívnych objektov typu Track](preprava-dielov-s-vyuzitim-objektu-transporter-vozik/modelovanie-prepravy-pomocou-pasivnych-objektov-typu-track.md)
+* [Modelovanie pracovníkov a služieb](modelovanie-pracovnikov-a-sluzieb/README.md)
+  * [Modelovanie zdrojov s využitím objektu Exporter](modelovanie-pracovnikov-a-sluzieb/modelovanie-zdrojov-s-vyuzitim-objektu-exporter.md)
+  * [Nastavenie objektu Exporter](modelovanie-pracovnikov-a-sluzieb/nastavenie-objektu-exporter.md)
