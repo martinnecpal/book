@@ -54,3 +54,8 @@
 * [Modelovanie pracovníkov a služieb](modelovanie-pracovnikov-a-sluzieb/README.md)
   * [Modelovanie zdrojov s využitím objektu Exporter](modelovanie-pracovnikov-a-sluzieb/modelovanie-zdrojov-s-vyuzitim-objektu-exporter.md)
   * [Nastavenie objektu Exporter](modelovanie-pracovnikov-a-sluzieb/nastavenie-objektu-exporter.md)
+  * [Nastavenie objektu Importer](modelovanie-pracovnikov-a-sluzieb/nastavenie-objektu-importer.md)
+  * [Modelovanie obsluhy stroja](modelovanie-pracovnikov-a-sluzieb/modelovanie-obsluhy-stroja.md)
+  * [Nastavenie pracovného kalendára](modelovanie-pracovnikov-a-sluzieb/nastavenie-pracovneho-kalendara.md)
+  * [Modelovanie pracovníkov prenášajúcich výrobky](modelovanie-pracovnikov-a-sluzieb/modelovanie-pracovnikov-prenasajucich-vyrobky.md)
+  * [Prenášanie viacerých kusov jedným pracovníkom](modelovanie-pracovnikov-a-sluzieb/prenasanie-viacerych-kusov-jednym-pracovnikom.md)
