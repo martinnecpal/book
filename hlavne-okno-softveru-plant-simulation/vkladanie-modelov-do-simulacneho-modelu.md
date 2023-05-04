@@ -16,8 +16,7 @@ vytvorenie nového vlastného podadresára MUs v adresári Models, kliknutím pr
 
 prekopírovanie niekoľkých objektov Part do nového podadresára MUs držaním ľavého tlačidla myši spoločne s klávesou Ctrl,
 
-premenovaním zkopirovaných MU podľa vlastných potrieb. !!!nepoužívať pri menách objektov ani celkovo diakritiku a ani medzery!!!
-
-Postup vytvárania nových objektov typu Part v novom adresári MUs znázorňuje obrázok
+premenovaním zkopirovaných MU podľa vlastných potrieb. **!!!nepoužívať pri menách objektov ani celkovo diakritiku a ani medzery!!!**
+Postup vytvárania nových objektov typu Part v novom adresári MUs znázorňuje obrázok:
 
 <figure><img src="../.gitbook/assets/Vytvaranie_objektov_mat_toku.png" alt=""><figcaption><p>Vytváranie objektov materiálového toku MUs</p></figcaption></figure>
