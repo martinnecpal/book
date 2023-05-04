@@ -6,21 +6,11 @@ Základné nastavenie objektu Source sa nachádza na karte Attributes, jej možn
 
 <figure><img src="../.gitbook/assets/dialogove_okno_source.png" alt=""><figcaption><p>Dialogové okno nastavovania objektu Source</p></figcaption></figure>
 
-Z obrázku je zrejme “na základe okienka dedičnosti ”, že jediná vlastnosť ktorá je zmenená je interval generovania na 1min. Základom nastavenia je informácia aké MU chceme generovať. Toto nastavenie je v dolnej časti karty Attributes .&#x20;
-
-<figure><img src="../.gitbook/assets/atributes.png" alt=""><figcaption></figcaption></figure>
-
-Je niekoľko možností ako nastaviť túto položku. Jednou z možností je kliknutím na … a výberom Select Object otvoriť dialógové okno výberu MUs ako ukazuje obrázok:
+Z obrázku je zrejme “na základe okienka dedičnosti ![ icon name](../.gitbook/assets/icons/zeleny_stvorcek.png)![ icon name](../.gitbook/assets/icons/zmeneny_stvorcek.png)”, že jediná vlastnosť ktorá je zmenená je interval generovania na 1min. Základom nastavenia je informácia aké MU chceme generovať. Toto nastavenie je v dolnej časti karty Attributes ![ icon name](../.gitbook/assets/atributes.png). Je niekoľko možností ako nastaviť túto položku. Jednou z možností je kliknutím na … a výberom Select Object otvoriť dialógové okno výberu MUs ako ukazuje obrázok:
 
 <figure><img src="../.gitbook/assets/generovanie_mob_objektov.png" alt=""><figcaption><p>Výber generovaných mobilných objektov MUs</p></figcaption></figure>
 
-V spodnej časti sa nachádza informácia v akom adresáre sa aktuálne nachádzame. V tomto adresári sa nachádzajú objekty “Container, Part, Transporter”. O úroveň vyššie v adresárovej štruktúre objektu sa dostaneme poklepaním na tlačidlo
-
-<figure><img src="../.gitbook/assets/Back.png" alt=""><figcaption></figcaption></figure>
-
-Týmto spôsobom môžeme prechádzať adresárovú štruktúru projektu. Preskúmaním Class Library vieme, že objekty MUs ktoré chceme používať v projekte simulačnéhom modelu sa nachádzajú : Models/MUs. Jedná sa o objekty “diel\_A, diel\_B, diel\_C”. Prejdeme do adresára a vyberieme objekt “diel\_A”. Výber sa prejaví nasledovne:
-
-<figure><img src="../.gitbook/assets/MUset.png" alt=""><figcaption></figcaption></figure>
+V spodnej časti sa nachádza informácia v akom adresáre sa aktuálne nachádzame. V tomto adresári sa nachádzajú objekty “Container, Part, Transporter”. O úroveň vyššie v adresárovej štruktúre objektu sa dostaneme poklepaním na tlačidlo ![ icon name](../.gitbook/assets/Back.png). Týmto spôsobom môžeme prechádzať adresárovú štruktúru projektu. Preskúmaním Class Library vieme, že objekty MUs ktoré chceme používať v projekte simulačnéhom modelu sa nachádzajú : Models/MUs. Jedná sa o objekty “diel\_A, diel\_B, diel\_C”. Prejdeme do adresára a vyberieme objekt “diel\_A”. Výber sa prejaví nasledovne:![ icon name](../.gitbook/assets/MUset.png)
 
 Ďalšia možnosť výberu MU je pretiahnutím pomocou myši so stlačeným ľavým tlačidlom priamo z Class Library a pustením v časti kde má byť informácia o MU. Princíp zadávania znázorňuje obr.
 
