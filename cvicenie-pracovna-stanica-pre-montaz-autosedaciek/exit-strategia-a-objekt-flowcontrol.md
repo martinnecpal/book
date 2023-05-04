@@ -12,7 +12,7 @@ Implicitne je táto hodnota nastavené na Cyclic, to znamená že výstup sa cyk
 
 <figure><img src="../.gitbook/assets/vyuz_stanic.png" alt=""><figcaption><p>Ukážka využiteľnosti staníc v súvislosti s nastavením Exit Strategy</p></figcaption></figure>
 
-Nakoľko sa MUs prerozdeluju z objektu buffer cyklicky, musí objekt Station\_1 a Station\_2 čakať na pomalšie pracujúce objekty Station\_3 a Station\_4. V prípade že nastavíme Exit stratégiu objektu na Most Recent Demand (posledný dopyt), situácia sa zmení. Kartu nastavenia Exit obsahujú objekty, kde je možné pripojiť viacej objektov Connector. V prípade že potrebujeme riadiť aj vstupné pravidlá je možné použiť objekt FlowControl , ktorý sa nachádza na karte Material Flow. V prípade objektu FlowControl je možné nastaviť vstupnú (Entry Strategy), ale aj výstupnú (Exit Strategy) stratégiu obrázok:
+Nakoľko sa MUs prerozdeluju z objektu buffer cyklicky, musí objekt Station\_1 a Station\_2 čakať na pomalšie pracujúce objekty Station\_3 a Station\_4. V prípade že nastavíme Exit stratégiu objektu na Most Recent Demand (posledný dopyt), situácia sa zmení. Kartu nastavenia Exit obsahujú objekty, kde je možné pripojiť viacej objektov Connector. V prípade že potrebujeme riadiť aj vstupné pravidlá je možné použiť objekt FlowControl ![ icon name](../.gitbook/assets/icons/flowcontrol.png) , ktorý sa nachádza na karte Material Flow. V prípade objektu FlowControl je možné nastaviť vstupnú (Entry Strategy), ale aj výstupnú (Exit Strategy) stratégiu obrázok:
 
 <figure><img src="../.gitbook/assets/entry_str.png" alt=""><figcaption><p>Ukážka nastavenie Entry Strategy objektu FlowControl</p></figcaption></figure>
 

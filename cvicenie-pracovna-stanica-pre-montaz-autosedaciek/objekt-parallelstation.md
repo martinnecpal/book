@@ -1,6 +1,6 @@
 # Objekt ParallelStation
 
-Objekt ParallelStation je rozšírenie objektu Station o možnosť simulovať niekoľko objektov Station jedným objektom. Na základnej karte Attributes sa nachádza nastavenie X-dimension a Y-dimension. V prípade že chceme simulovať dve pracovné stanice nastavíme X-dimension na 2 a y Dimension na 1.
+Objekt ParallelStation ![ icon name](../.gitbook/assets/icons/parallelstation.png) je rozšírenie objektu Station o možnosť simulovať niekoľko objektov Station jedným objektom. Na základnej karte Attributes sa nachádza nastavenie X-dimension a Y-dimension. V prípade že chceme simulovať dve pracovné stanice nastavíme X-dimension na 2 a y Dimension na 1.
 
 Cvičenie: Pracovná stanica pre montáž autosedačiek s dvoma pracoviskami, s monotovaním dvoch typov autosedačiek:
 
