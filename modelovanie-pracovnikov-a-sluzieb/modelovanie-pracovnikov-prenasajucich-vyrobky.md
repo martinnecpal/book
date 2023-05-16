@@ -1,5 +1,7 @@
 # Modelovanie pracovníkov prenášajúcich výrobky
 
+{% embed url="https://www.youtube.com/watch?index=8&list=PLhlArjTkqa-8cQdzVz-SJvd4C9XmhhdGL&v=Egp1tiUKOho" %}
+
 V reálnom výrobnom systéme môže pracovník dostať za úlohu prenášať výrobky. Sumulačný model môže byť taktiež nastavený tak aby pracovník mohol presúvať objekty typu MU medzi objektami typu Material Flow. Na obrázku je znázornené jednoduché pracovisko, kde je potrebné prenášať objekty medzi objektami typu maerial flow praocivko1 a pracovisko. Zostavenie modelu je jednoduché, pozor na dôkladné pospájanie objektov Workplace (ktoré sú premenované na w1 a w2) s objektom WorkerPool a FootPath.
 
 <figure><img src="../.gitbook/assets/prenasanie_workrom.png" alt=""><figcaption><p>Ukážka základného simulačného modelu pre ukážku prenášania MU pomocou pracovníkov</p></figcaption></figure>
