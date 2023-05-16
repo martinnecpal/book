@@ -1,6 +1,6 @@
 # Nastavenie pracovného kalendára
 
-Pokiaľ chceme modelovať prácu pracovníkov na zmeny, môžeme využiť objekt ShiftCalendar nasledovne. Vložíme objekt ShiftCalendár na hlavný pracovný Frame. Po rozkliknutí nastavenia objektu sú v základe nastavené dve zmeny s názvom Shift-1 a Shift-2. Počet zmien je neobmedzený. Je možné nastaviť pracovný čas a deň v týždni kedy bude zmena pracovať ako ukazuje obrázok:
+Pokiaľ chceme modelovať prácu pracovníkov na zmeny, môžeme využiť objekt ![icon name](../.gitbook/assets/icons/icon_kalendar.png)  nasledovne. Vložíme objekt ShiftCalendár na hlavný pracovný Frame. Po rozkliknutí nastavenia objektu sú v základe nastavené dve zmeny s názvom Shift-1 a Shift-2. Počet zmien je neobmedzený. Je možné nastaviť pracovný čas a deň v týždni kedy bude zmena pracovať ako ukazuje obrázok:
 
 <figure><img src="../.gitbook/assets/nastavenie_shift_calendar.png" alt=""><figcaption><p>Ukážka nastavenia práce na zmeny objektu ShiftCalendar</p></figcaption></figure>
 

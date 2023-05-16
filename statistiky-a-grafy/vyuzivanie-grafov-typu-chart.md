@@ -1,10 +1,6 @@
 # Využívanie grafov typu Chart
 
-Funkciu zobrazenia grafu aktivujeme vložením objektu Chart
-
-<figure><img src="../.gitbook/assets/chart_icon.png" alt=""><figcaption></figcaption></figure>
-
-z karty User Interface panela Toolbox. Po vložení grafu treba objektu prideliť dáta ktoré chceme zobrazovať. Napríklad zobrazenie štatistických údajov jednotlivých staníc vykonáme tak, že vyberieme stanice a pomocou pretiahnutia myšou s ľavým tlačídlom tieto stanice vložíme na objekt Chart. Princíp ukazuje obrázok:
+Funkciu zobrazenia grafu aktivujeme vložením objektu Chart ![icon name](../.gitbook/assets/chart_icon.png) z karty User Interface panela Toolbox. Po vložení grafu treba objektu prideliť dáta ktoré chceme zobrazovať. Napríklad zobrazenie štatistických údajov jednotlivých staníc vykonáme tak, že vyberieme stanice a pomocou pretiahnutia myšou s ľavým tlačídlom tieto stanice vložíme na objekt Chart. Princíp ukazuje obrázok:
 
 <figure><img src="../.gitbook/assets/vkladanie_chart.png" alt=""><figcaption><p>Princíp vkladania a nastavenie objektu Chart</p></figcaption></figure>
 

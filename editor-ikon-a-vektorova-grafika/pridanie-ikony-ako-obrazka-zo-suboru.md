@@ -1,6 +1,6 @@
 # Pridanie ikony ako obrázka zo súboru
 
-Možnosti editora ikon ktorý sa nachádza ako súčasť softvéru plant simulation nemusia vyhovovať grafickým potrebám užívateľa. Je možné vytvoriť obrázok v externom editore a tento následne po importe do editora ikon využívať v simulačnom modeli. Je vhodné vytvárať obrázok tak, aby obsahoval transparentnú vrstvu, čím sa zjednodušuje práca s obrázkom. Jednoduchú animáciu môžeme vytvoriť na nami vytvorenom objekte my\_pracovisko z predchádzajúceho príkladu. Pravým tlačidlom myši otvoríme editor ikon. Následne v sekcii File na Ribon Bare zvolíme New a potom Import . Po na-importovaní môže výsledok vyzerať ako ukazuje obrázok:
+Možnosti editora ikon ktorý sa nachádza ako súčasť softvéru plant simulation nemusia vyhovovať grafickým potrebám užívateľa. Je možné vytvoriť obrázok v externom editore a tento následne po importe do editora ikon využívať v simulačnom modeli. Je vhodné vytvárať obrázok tak, aby obsahoval transparentnú vrstvu, čím sa zjednodušuje práca s obrázkom. Jednoduchú animáciu môžeme vytvoriť na nami vytvorenom objekte my\_pracovisko z predchádzajúceho príkladu. Pravým tlačidlom myši otvoríme editor ikon. Následne v sekcii File na Ribon Bare zvolíme New ![icon name](../.gitbook/assets/icons/icon_new.png) a potom Import ![icon name](../.gitbook/assets/icons/icon_import.png). Po na-importovaní môže výsledok vyzerať ako ukazuje obrázok:
 
 <figure><img src="../.gitbook/assets/subor_do_editoru.png" alt=""><figcaption><p>Príklad importu grafického súboru do editora ikon</p></figcaption></figure>
 
