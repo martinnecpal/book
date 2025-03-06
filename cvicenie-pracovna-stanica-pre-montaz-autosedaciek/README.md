@@ -32,7 +32,7 @@ Na frame vložíme nasledujúce objekty:
 
 1x-Drain
 
-Do zložky Manufactory pridáme zložku MU a do nej prekopírujeme Part ktorý premenujeme na seat. Komponenty prepojíme konektorom podľa nasledovného obrázka:
+Do zložky Manufactory pridáme zložku MUs a do nej prekopírujeme Part ktorý premenujeme na seat. Komponenty prepojíme konektorom podľa nasledovného obrázka:
 
 <figure><img src="../.gitbook/assets/simulacny_model_autosedacky.png" alt=""><figcaption><p>Vzhľad simulačného modelu výroby autosedačiek</p></figcaption></figure>
 
